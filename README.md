@@ -1,8 +1,9 @@
 # Analise-de-dados-de-credito-com-SQL
  ## Exploração e análise de dados de crédito com SQL 
 
-●    O objetivo do projeto é prever a renda de uma pessoa baseando em características como sexo, idade, cor/raça e tempo de estudo, tendo como base uma fonte de dados do IBGE.
+●     O objetivo do projeto é analisarmos o perfil de crédito de clientes de um determinado banco.
 
-●  As atividades desenvolvidas foram a coleta, exploração, limpeza, manipulação, enriquecimento e visualização desses dados, com o objetivo de gerarmos importantes insights sobre as características gerais da população, de acordo com sua fonte de renda.
+●   As atividades desenvolvidas consistiram na extração, manipulação e análise desses dados para gerar insights e gráficos. Foram abordados diversos parâmetros para explorarmos o perfil desses clientes, com a finalidade de analisar padrões, categorias e condições.
 
-●   Neste projeto, trabalhamos principalmente com Estatística através da técnica de Regressão Linear. Também, utilizamos os pacotes e bibliotecas (pandas, sklearn e seaborn), tendo como objetivo analisar os dados e, principalmente, prever os resultados.
+●   Na prática, trabalhamos neste projeto com a linguagem SQL juntamente com técnicas de matemática e estatística, no qual criamos diversas Queries para explorarmos ao máximo o estudo dessa base de dados, além disso, utilizamos a plataforma de nuvem Amazon Web Services (AWS) para trabalharmos neste projeto. 
+
